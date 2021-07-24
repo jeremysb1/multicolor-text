@@ -1,3 +1,3 @@
 # Multi-Color Text
 
-Adding a bit of design spice to my html.
+A fun project where I got creative with CSS.
